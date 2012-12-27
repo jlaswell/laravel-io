@@ -392,6 +392,28 @@ a:hover
     background-color: #f0523f
 }
 
+/*
+ * Based on H5BP
+ */
+.github_dark_icon {
+   border: 0;
+   font: 0/0 a;
+   text-shadow: none;
+   background: url("imgs/octocat_light.png") no-repeat;
+   background-position: center top;
+   background-size: 130%;
+   color: transparent;
+   width: 20px;
+   height: 20px;
+   border 0 solid #222;
+   border-radius: 20px;
+   box-shadow: 0 0 0 0 #010101;
+}
+.github_dark_icon:hover {
+   background-color: #010101;
+   box-shadow: 0 0 0 2px #010101;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
