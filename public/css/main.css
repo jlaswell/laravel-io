@@ -395,11 +395,11 @@ a:hover
 /*
  * Based on H5BP
  */
-.github_dark_icon {
+.github_light_icon {
    border: 0;
    font: 0/0 a;
    text-shadow: none;
-   background: url("imgs/octocat_light.png") no-repeat;
+   background: url("../img/octocat_light.png") no-repeat;
    background-position: center top;
    background-size: 130%;
    color: transparent;
@@ -409,7 +409,7 @@ a:hover
    border-radius: 20px;
    box-shadow: 0 0 0 0 #010101;
 }
-.github_dark_icon:hover {
+.github_light_icon:hover {
    background-color: #010101;
    box-shadow: 0 0 0 2px #010101;
 }
