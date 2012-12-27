@@ -66,7 +66,7 @@
         </article>
   
         <footer>
-            &copy; 2012 laravel.io | <a href="{{ URL::to('rss') }}">RSS</a> | <a href="{{ URL::to('repo') }}"><div class="github_light_icon"></div></a>
+            &copy; 2012 laravel.io | <a href="{{ URL::to('rss') }}">RSS</a> | <a href="http://github.com/ShawnMcCool/laravel-io/"><div class="github_light_icon"></div></a>
         </footer>      
         
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
